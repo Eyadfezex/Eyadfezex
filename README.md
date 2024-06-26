@@ -3,7 +3,7 @@
 - I'm a Egyptian react developer
 - looking for a react developer full-time job
 - you can ask me about react, redux, JS, TS, Web-Apps
-- I’m currently learning **Apollo**
+- I’m currently learning **Apollo React-Query**
 - 📫 How to reach me Eyad932004@outlook.com
 
 ## 🌐 Socials:
