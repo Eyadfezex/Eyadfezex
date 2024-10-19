@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eyad Ahmed</h1>
 
-- I'm a Egyptian react developer
+- I'm an Egyptian front-end developer
 - looking for a react developer full-time job
-- you can ask me about react, redux, JS, TS, Web-Apps
+- you can ask me about react, redux, JS, TS, web apps
 - I’m currently learning **Apollo React-Query**
 - 📫 How to reach me Eyad932004@outlook.com
 
