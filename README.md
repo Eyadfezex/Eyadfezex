@@ -1,38 +1,62 @@
-<h1 align="center">Hi 👋, I'm Eyad Ahmed</h1>
+<h1 align="center">Hey there 👋, I'm Eyad Ahmed</h1>
+<h3 align="center">Transforming Concepts into Seamless User Experiences</h3>
 
-- I'm an Egyptian front-end developer
-- looking for a react developer full-time job
-- you can ask me about react, redux, JS, TS, web apps
-- 📫 How to reach me Eyad932004@outlook.com
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100060985816360) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyad_ahmed_550) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyad-ahmed-13382a273/)
-
-# 💻 Tech Stack:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=eyadFezex&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=eyadFezex&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyadFezex&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=eyadFezex&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=eyadFezex&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+Wizard;Design+to+Code+with+Precision;Forever+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=eyadFezex&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧠 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💻 Fullstack dev with a frontend focus and a passion for pixel-perfect experiences  
+- 🌐 Expert in **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**  
+- 🤖 Diving deep into **AI engineering**, **LangChain**, and **Qdrant**  
+- 🎯 Obsessed with performance, smooth UX, and building things that just *feel right*  
+- 📍 Based in Egypt, building things that make the internet cooler  
+
+---
+
+### 🛠️ Tech Stack
+
+```ts
+Frontend     : React, Next.js, Astro, Tailwind CSS, Framer Motion  
+Backend      : Node.js, Express, Prisma  
+Databases    : PostgreSQL, SQLite, MySQL  
+Dev Tools    : TypeScript, pnpm, Axios, Zustand, React Query  
+AI/VectorDB  : Hugging Face Transformers, Qdrant, LangChain (soon)  
+```
+
+---
+
+### 🔗 Let’s Connect
+
+* 💼 **Portfolio:** [https://fezex.vercel.app](https://fezex.vercel.app)
+* 💬 **LinkedIn:** [https://www.linkedin.com/in/eyad-ahmed-13382a273/](https://www.linkedin.com/in/eyad-ahmed-13382a273/) <!-- Replace with actual -->
+* 📧 **Email:** [Eyad\_\_Ahmed@outlook.com](mailto:Eyad__Ahmed@outlook.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eyadfezex&show_icons=true&theme=tokyonight" alt="Eyad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyadfezex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> “Code with intent. Design with heart. Ship with pride.”
+
+---
+
+### 💖 Support
+
+If my work helped or inspired you, drop a ⭐ — it helps more than you think.
+
+---
+
+*This README is crafted by [Fezex](https://fezex.vercel.app) — where tradition meets tech.*
+
