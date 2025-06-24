@@ -31,9 +31,9 @@ AI/VectorDB  : Hugging Face Transformers, Qdrant, LangChain (soon)
 
 ### 🔗 Let’s Connect
 
-* 💼 **Portfolio:** [https://fezex.vercel.app](https://fezex.vercel.app)
-* 💬 **LinkedIn:** [https://www.linkedin.com/in/eyad-ahmed-13382a273/](https://www.linkedin.com/in/eyad-ahmed-13382a273/) <!-- Replace with actual -->
-* 📧 **Email:** [Eyad\_\_Ahmed@outlook.com](mailto:Eyad__Ahmed@outlook.com)
+* 💼 [**Portfolio**](https://fezex.vercel.app)
+* 💬 [**LinkedIn**](https://www.linkedin.com/in/eyad-ahmed-13382a273/) <!-- Replace with actual -->
+* 📧 [**Email**](mailto:Eyad__Ahmed@outlook.com)
 
 ---
 
