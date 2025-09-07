@@ -2,7 +2,7 @@
 <h3 align="center">Transforming Concepts into Seamless User Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=4000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+Wizard;Design+to+Code+with+Precision;Forever+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+Wizard;Design+to+Code+with+Precision;Forever+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
