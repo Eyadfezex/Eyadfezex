@@ -57,7 +57,7 @@ AI/VectorDB  : Hugging Face Transformers, Qdrant, LangChain (soon)
 If my work helped or inspired you, drop a ⭐ — it helps more than you think.
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/eyadahmed" target="_blank">
+  <a href="https://www.buymeacoffee.com/fezex" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
   </a>
 </p>
