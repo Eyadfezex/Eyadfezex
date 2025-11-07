@@ -58,9 +58,10 @@ If my work helped or inspired you, drop a ⭐ — it helps more than you think.
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/eyadahmed" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-dark.png" alt="Buy Me A Coffee" width="200" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
   </a>
 </p>
+
 
 ---
 
