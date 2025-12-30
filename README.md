@@ -32,7 +32,7 @@ AI/VectorDB  : Hugging Face Transformers, Qdrant, LangChain (soon)
 ### 🔗 Let’s Connect
 
 * 💼 [**Portfolio**](https://fezex.vercel.app)
-* 💬 [**LinkedIn**](https://www.linkedin.com/in/eyad-ahmed-13382a273/) <!-- Replace with actual -->
+* 💬 [**LinkedIn**](https://www.linkedin.com/in/eyad-abosenna-13382a273/)
 * 📧 [**Email**](mailto:Eyad__Ahmed@outlook.com)
 
 ---
