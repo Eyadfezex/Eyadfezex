@@ -21,7 +21,7 @@
 
 ```ts
 Frontend     : React, Next.js, Astro, Tailwind CSS, Framer Motion  
-Backend      : Node.js, Express, Prisma  
+Backend      : Node.js, Express, Prisma, Nest.js 
 Databases    : PostgreSQL, SQLite, MySQL  
 Dev Tools    : TypeScript, pnpm, Axios, Zustand, React Query  
 AI/VectorDB  : Hugging Face Transformers, Qdrant, LangChain (soon)  
