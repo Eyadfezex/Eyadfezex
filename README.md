@@ -43,7 +43,6 @@ const fezex = {
 
 - 💻 Fullstack dev with a **frontend soul** and a love for pixel-perfect experiences
 - 🌐 Deep expertise in **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**
-- 🤖 Actively exploring **AI engineering**, **LangChain**, **Qdrant**, and **RAG pipelines**
 - 🎯 Obsessed with performance, smooth UX, and building things that just *feel right*
 - 🌱 Currently leveling up in **Nest.js**, **system design**, and **AI-powered apps**
 - 📍 Based in Egypt, building things that make the internet cooler
