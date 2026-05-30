@@ -156,7 +156,7 @@ while (alive) {
 
 <div align="center">
 
-[![roadmap.sh](https://roadmap.sh/card/tall/643d0ee6e2725773748fef5b?variant=dark&roadmaps=react%2Cfrontend%2Ctypescript%2Cjava)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/643d0ee6e2725773748fef5b?variant=dark&roadmaps=react%2Cfrontend%2Ctypescript%2Cjava)](https://roadmap.sh)
 
 </div>
 
