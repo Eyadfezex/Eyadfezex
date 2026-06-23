@@ -29,45 +29,6 @@
 
 ---
 
-## 🧠 About Me
-
-```ts
-const fezex = {
-  name        : "Fezex",
-  role        : "Fullstack Developer (Frontend-Focused)",
-  location    : "Egypt 🇪🇬 — building things that make the internet cooler",
-  obsessions  : ["Performance", "Pixel-perfect UI", "Smooth UX", "DX"],
-  funFact     : "I debug CSS at 2am and somehow enjoy it",
-};
-```
-
-- 💻 Fullstack dev with a **frontend soul** and a love for pixel-perfect experiences
-- 🌐 Deep expertise in **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**
-- 🎯 Obsessed with performance, smooth UX, and building things that just *feel right*
-- 🌱 Currently leveling up in **Nest.js**, **system design**, and **AI-powered apps**
-- 📍 Based in Egypt, building things that make the internet cooler
-
----
-
-## ⚡ Philosophy
-
-<div align="center">
-
-> *"Code with intent. Design with heart. Ship with pride."*
-
-</div>
-
-```ts
-while (alive) {
-  eat();
-  sleep();
-  code();     // ← the important one
-  repeat();
-}
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -117,61 +78,7 @@ while (alive) {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eyadfezex&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=0affef&icon_color=0affef" alt="Fezex's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Eyadfezex&theme=tokyonight&hide_border=true&background=0d1117&ring=0affef&fire=ff6e6e&currStreakLabel=0affef" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadfezex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0affef&langs_count=8" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Fezex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eyadfezex&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0affef&line=0affef&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Eyadfezex&theme=nord&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🗺️ Roadmap Progress
-
-<div align="center">
-
-[![roadmap.sh](https://roadmap.sh/card/wide/643d0ee6e2725773748fef5b?variant=dark&roadmaps=react%2Cfrontend%2Ctypescript%2Cjava)](https://roadmap.sh)
-
-</div>
-
----
-
-## 🔗 Let's Connect
-
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [fezex.vercel.app](https://fezex.vercel.app) |
-| 💼 LinkedIn | [eyad-abosenna](https://www.linkedin.com/in/eyad-abosenna-13382a273/) |
-| 📧 Email | [Eyad__Ahmed@outlook.com](mailto:Eyad__Ahmed@outlook.com) |
-| ☕ Support | [buymeacoffee.com/fezex](https://www.buymeacoffee.com/fezex) |
-
----
 
 ## 💖 Support My Work
 
